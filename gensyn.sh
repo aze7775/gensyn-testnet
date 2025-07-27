@@ -56,3 +56,4 @@ echo -e "${BOLD}${YELLOW}[✓] Running rl-swarm...${NC}"
 python3 -m venv .venv && . .venv/bin/activate
 sleep 2
 ./run_rl_swarm.sh
+./run_r2_swarm.si
